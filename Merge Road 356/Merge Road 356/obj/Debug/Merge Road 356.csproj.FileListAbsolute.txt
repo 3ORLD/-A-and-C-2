@@ -1,0 +1,8 @@
+C:\Users\ikean\source\repos\Merge Road 356\Merge Road 356\bin\Debug\Merge Road 356.exe.config
+C:\Users\ikean\source\repos\Merge Road 356\Merge Road 356\bin\Debug\Merge Road 356.exe
+C:\Users\ikean\source\repos\Merge Road 356\Merge Road 356\bin\Debug\Merge Road 356.pdb
+C:\Users\ikean\source\repos\Merge Road 356\Merge Road 356\obj\Debug\Merge Road 356.csproj.AssemblyReference.cache
+C:\Users\ikean\source\repos\Merge Road 356\Merge Road 356\obj\Debug\Merge Road 356.csproj.SuggestedBindingRedirects.cache
+C:\Users\ikean\source\repos\Merge Road 356\Merge Road 356\obj\Debug\Merge Road 356.csproj.CoreCompileInputs.cache
+C:\Users\ikean\source\repos\Merge Road 356\Merge Road 356\obj\Debug\Merge Road 356.exe
+C:\Users\ikean\source\repos\Merge Road 356\Merge Road 356\obj\Debug\Merge Road 356.pdb
