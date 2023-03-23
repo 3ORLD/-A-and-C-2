@@ -13,7 +13,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\ikean\source\repos\Merge Road 356\Merge Road 356\bin\Debug";
+            string path = @"C:\Users\Computing\source\repos\-A-and-C-2\Merge Road 356\Merge Road 356\bin\Debug";
             string[] files = Directory.GetFiles(path, "*txt", SearchOption.TopDirectoryOnly);
             using (var output = System.IO.File.Create(path + "final_256.txt"))
             {
