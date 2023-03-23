@@ -64,7 +64,7 @@ namespace Test
             {
                 numbers[i] = int.Parse(lines[i]);
 
-                // Print every 10th value
+                // Print every 50th value
                 if (i % 50 == 0)
                 {
                     Console.WriteLine("Value at index " + i + ": " + numbers[i]);
