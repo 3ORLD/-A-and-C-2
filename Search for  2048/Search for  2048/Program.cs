@@ -71,8 +71,8 @@ namespace Search_Jesse
             {
                 numbers[i] = int.Parse(lines[i]);
 
-                // Print every 10th value
-                if (i % 10 == 0)
+                // Print every 50th value
+                if (i % 50 == 0)
                 {
                     Console.WriteLine("Value at index " + i + ": " + numbers[i]);
                 }
@@ -82,8 +82,8 @@ namespace Search_Jesse
             {
                 numbers1[i] = int.Parse(lines1[i]);
 
-                // Print every 10th value
-                if (i % 10 == 0)
+                // Print every 50th value
+                if (i % 50 == 0)
                 {
                     Console.WriteLine("Value at index " + i + ": " + numbers1[i]);
                 }
@@ -93,8 +93,8 @@ namespace Search_Jesse
             {
                 numbers2[i] = int.Parse(lines2[i]);
 
-                // Print every 10th value
-                if (i % 10 == 0)
+                // Print every 50th value
+                if (i % 50 == 0)
                 {
                     Console.WriteLine("Value at index " + i + ": " + numbers2[i]);
                 }
